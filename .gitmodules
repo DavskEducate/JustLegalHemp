@@ -1,0 +1,12 @@
+[submodule "DotCom/public"]
+	path = DotCom/public
+	url = git@github.com:Huny-B-CBD-Oil/JlhDotCom.git
+	branch = master
+[submodule "DotNet/public"]
+	path = DotNet/public
+	url = git@github.com:Huny-B-CBD-Oil/JlhDotNet.git
+	branch = master
+[submodule "DotInfo/public"]
+	path = DotInfo/public
+	url = git@github.com:Huny-B-CBD-Oil/JlhDotInfo.git
+	branch = master
